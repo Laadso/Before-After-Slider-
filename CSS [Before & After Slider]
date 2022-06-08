@@ -1,0 +1,54 @@
+.container69 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.compare69 {
+  position: relative;
+  width: 640px;
+  height: 480px;
+}
+
+.compare69 .before69 {
+  position: relative;
+  top: 0px;
+  width: 100%;
+  height: 480px;
+  background: url("https://cdn.shopify.com/s/files/1/0614/5028/9378/files/BlueWatch_After_VGOOD.jpg?v=1639104559");
+}
+
+.compare69 .before69 .after69 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 320px;
+  height: 480px;
+  background: url("https://cdn.shopify.com/s/files/1/0614/5028/9378/files/BlueWatch_Before_VGOOD.jpg?v=1639104559");
+  z-index: 2;
+}
+
+.compare69 input {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  -webkit-appearance: none;
+  z-index: 3;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+}
+
+.compare69 input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  display: block;
+  width: 5px;
+  height: 473px;
+  background: black;
+  cursor: pointer;
+}
+
+.compare69 input::-webkit-slider-thumb:active {
+  transition: all 300ms ease-in-out;
+}
