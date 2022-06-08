@@ -1,0 +1,10 @@
+
+<div class="container69">
+    <div class="compare69">
+    <div class="before69">
+      <div class="after69"></div>
+    </div>
+    <input type="range" min="0" max="640" step="10" id="compare-ip">
+  </div>
+</div>
+
