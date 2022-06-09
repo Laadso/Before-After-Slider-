@@ -1,4 +1,4 @@
-# Code-Fiddles
-Pieces of HTML/CSS + JS for Web Functions
+# Before & After SLider
 
-Simple Code Pieces for user experience & other improvments for Ecommerce 
+Simple HTML/CSS + JS For showing a before & after slider in a mobile oriented setting.
+Ideal for product descriptions in Ecommerce or landing pages.
